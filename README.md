@@ -9,4 +9,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaseduarda01&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Diaseduarda01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diaseduarda01&bg_color=142148&color=f0f0f0&line=04defb&point=441e8a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Diaseduarda01&theme=onedark&no-frame=true&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
