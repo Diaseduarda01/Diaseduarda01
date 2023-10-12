@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=100&section=header&%20render&fontSize=70" />
+
 
 <p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development using Java to frontend development using JavaScript, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm an <strong>junior-level full stack developer</strong> focused on web development.</p>&nbsp;
 
@@ -63,9 +63,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Diaseduarda01&theme=onedark&no-frame=true&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
- 
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
