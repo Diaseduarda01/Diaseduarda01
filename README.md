@@ -1,6 +1,5 @@
 
 
-<p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development using Java to frontend development using JavaScript, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm an <strong>junior-level full stack developer</strong> focused on web development.</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
