@@ -1,18 +1,16 @@
 
 
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eduarda%20Dias&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dev%20em%20Desenvolvimento%20:)&descAlignY=51&descAlign=62"/>
+</p>
 
-
-<div  align="center" style="margin-bottom:100px">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diaseduarda01&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaseduarda01&layout=compact&theme=tokyonight"/>
+<div  align="center" style="margin-bottom:100px; background: green;">
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diaseduarda01&show_icons=true&theme=tokyonight"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaseduarda01&layout=compact&theme=tokyonight"/>
  </div>
  
  &nbsp;
  &nbsp;
-
-
-
-## My Skills
 
 #### Main Stack:
 
@@ -31,10 +29,7 @@
 
 
 
-
 #### Databases:
-
-![sqlserver](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge)&nbsp;
 ![MySQl](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
