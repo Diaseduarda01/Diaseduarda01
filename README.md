@@ -12,7 +12,7 @@
  &nbsp;
  &nbsp;
 
-#### Main Stack:
+ ### Main Stack:
 
 
 
@@ -29,13 +29,13 @@
 
 
 
-#### Databases:
+### Databases:
 ![MySQl](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 
 
-## Contacts:
+### Contacts:
 
 <div> 
 <a href = "mailto:contato.mariaeduardasilvadias01@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
