@@ -25,7 +25,7 @@
 ![MySQl](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Portfolio Online:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seuportfolio.com](https://diaseduarda01.github.io/projeto-portifolio/site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://diaseduarda01.github.io/projeto-portifolio/site/)
 
 ### Contacts:
 
