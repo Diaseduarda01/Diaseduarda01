@@ -2,13 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eduarda%20Dias&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dev%20em%20Desenvolvimento%20:)&descAlignY=51&descAlign=62"/>
 </p>
 
-<div align="center" style="margin-bottom:100px; background: green;">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diaseduarda01&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaseduarda01&layout=compact&theme=tokyonight"/>
- </div>
- 
- &nbsp;
- &nbsp;
+
 
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
