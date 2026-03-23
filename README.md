@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eduarda%20Dias&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20in%20Progress%20🚀&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eduarda%20Dias&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20in%20Progress%20&descAlignY=51&descAlign=62"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
