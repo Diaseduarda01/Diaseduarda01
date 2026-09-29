@@ -57,9 +57,9 @@ Java · Spring Boot · MySQL · RabbitMQ · Terraform · AWS
 
 Distributed systems (consistency, idempotency, resilience) · System design · Observability · AWS
 
-## Portfolio
+## Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://eduarda-dias-portifolio.vercel.app/)
+[![Links](https://img.shields.io/badge/Links-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://hub-eduarda-dias.vercel.app/)
 
 ## Contact
 
